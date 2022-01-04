@@ -1,6 +1,8 @@
 #include <iostream>
 #include <tuple>
 
+// Implementation based off of https://www.youtube.com/watch?v=3kduOmZ2Wxw
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Show
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
